@@ -1,0 +1,6 @@
+/.vscode
+/.phpunit.cache
+/vendor
+.phpunit.result.cache
+.DS_Store
+vision*.json
